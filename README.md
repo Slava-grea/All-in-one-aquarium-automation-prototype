@@ -1,4 +1,4 @@
-<img width="880" height="583" alt="image" src="https://github.com/user-attachments/assets/2f81da8c-dc45-4ef9-b7f4-68c46ce7f2c0" /># All-in-one-aquarium-automation-prototype
+All-in-one-aquarium-automation-prototype
 A prototype board created as part of a diploma project for presentation during the thesis defense. The potential for separating all functions into a modular system.
 <img width="912" height="673" alt="image" src="https://github.com/user-attachments/assets/3f2c8c82-b935-47ee-9f54-e2d8f8c4123e" />
 <img width="826" height="562" alt="image" src="https://github.com/user-attachments/assets/5ee34c0e-381a-4305-919b-2386119a074b" />
