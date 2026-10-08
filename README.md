@@ -1,5 +1,7 @@
 All-in-one-aquarium-automation-prototype
-A prototype board created as part of a diploma project for presentation during the thesis defense. The potential for separating all functions into a modular system.
+A prototype board created as part of a diploma project for presentation during the thesis. The potential for separating all functions into a modular system. 
+In this case, the scope of work was too large for a diploma project, so I selected a specific part: "Design of a 5V/2A Switching Power Supply with Power Load Switching Control."
+
 <img width="912" height="673" alt="image" src="https://github.com/user-attachments/assets/3f2c8c82-b935-47ee-9f54-e2d8f8c4123e" />
 <img width="826" height="562" alt="image" src="https://github.com/user-attachments/assets/5ee34c0e-381a-4305-919b-2386119a074b" />
 <img width="857" height="654" alt="image" src="https://github.com/user-attachments/assets/5d7b3d2b-ad4c-407f-8115-e0766a983999" />
